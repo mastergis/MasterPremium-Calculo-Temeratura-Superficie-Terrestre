@@ -114,7 +114,7 @@ maxPixels: 1e9
 print(max, 'maxLST')
 
 
-Map.addLayer(LST, {min: 0, max:9, palette: [
+Map.addLayer(LST, {min: 12.19726940544291, max:41.6701111498399, palette: [
 '040274', '040281', '0502a3', '0502b8', '0502ce', '0502e6',
 '0602ff', '235cb1', '307ef3', '269db1', '30c8e2', '32d3ef',
 '3be285', '3ff38f', '86e26f', '3ae237', 'b5e22e', 'd6e21f',
@@ -134,3 +134,4 @@ Map.addLayer(LST, {min: 0, max:9, palette: [
   }
 });
  
+
